@@ -7,3 +7,4 @@
 * 프로그램 아이콘 위에서 우클릭 -> [팝업 검사]
 
 # 게임 화면
+<img src="https://github.com/MinSikSon/chrome_extension/blob/master/ingame_screenshot.PNG">
